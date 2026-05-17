@@ -38,3 +38,4 @@ https://api.github.com/
 - Error handling
 - Loading state
 - Responsive дизайн
+  https://drive.google.com/file/d/1FABfEGoKBJn-zDEn86bFEKCYdLwcBW9C/view?usp=sharing
